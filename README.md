@@ -8,6 +8,8 @@ nafis_k1@denison.edu
 
 ### Purpose
 
+### prerequisites
+Rstudio, Python, Tableau 
 
 ### Data
 
